@@ -22,7 +22,6 @@
                 (
                   <Feedback selectedValue={ValoresSelections} />
                 ) : (
-                 
                   <main>
                     <div className="Header">
                     <div className="Fav">
